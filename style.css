@@ -1,0 +1,32 @@
+body {
+  font-family: 'Crimson Text', serif;
+  margin: 0px;
+  line-height: 1.5em;
+  color: #333333;
+}
+
+h1, h2, h3 {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.header{
+  background-image: url("http://unsplash.it/1000/500");
+  background-size: cover;
+  text-align: center;
+  padding: 200px;
+  color: white;
+}
+
+.container{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.overline{
+  background-image: linear-gradient(to bottom, rgba(203, 255, 186, 1), rgba(203, 255, 186, 1));
+}
+
+.overline:hover{
+  background-image: linear-gradient(to bottom, rgba(110, 255, 89, 1), rgba(110, 255, 89, 1));
+}
