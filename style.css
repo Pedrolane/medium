@@ -3,6 +3,7 @@ body {
   margin: 0px;
   line-height: 1.5em;
   color: #333333;
+  background-color: #e74c3c;
 }
 
 h1, h2, h3 {
@@ -33,4 +34,5 @@ h1, h2, h3 {
 
 .overline:hover{
   background-image: linear-gradient(to bottom, rgba(110, 255, 89, 1), rgba(110, 255, 89, 1));
+  cursor: pointer;
 }
